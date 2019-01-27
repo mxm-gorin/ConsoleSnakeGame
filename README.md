@@ -7,8 +7,9 @@ The game uses console background property for drawing elements of the game.
 
 How to use syntax of C# such as:
 * variables
-* classes
+* methods
 * loops
+* classes
 * constructors
 * access modifiers
 * etc.
